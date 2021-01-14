@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单</title>
+</head>
+<body>
+<!--保证中英文标点符号一致-->
+    <form action="aaa" method="post"><!--action是将表单内的数据提交到网址，method是提交的请求方式，有get和post等-->
+        <laberl>请输入姓名:</laberl> <!--专门用来文字效果的显示的-->
+            <input type="text" name="" id=""><!--name一般是给后台使用的，允许重复，id一般是给js使用的，id唯一--><br>
+        <laberl>请输入密码</laberl>
+            <input type="text" name="" id=""><br>
+        <label>请重复输入密码</label>
+            <input type="" name="" id=""><br>
+        <label>性别</label>
+            <input type="radio" name="1" id="" value="男">男<!--value添加与否在前端是看不到的，如果一旦涉及到后台是必须要添加value的-->
+        <input type="radio" name="1" id="" value="女">女 <!--如果两个按钮没有设置相同的name名字，那么两个是可以同时选中的--><br>
+        <label>兴趣爱好</label>
+            <input type="checkbox" name="" id="" value="游泳">游泳<!--后台传值value一般是传递数字-->
+            <input type="checkbox" name="" id="" value="看书" >看书
+            <input type="checkbox" name="" id="" value="爬山">爬山
+            <input type="checkbox" name="" id="" value="思考">思考<br>
+        <label>生日:</label>
+            <select>年
+                <option value="1995">1995</option>
+                <option value="1996">1996</option>
+                <option value="1997" selected="selected">1997</option> <!--selected是设置默认显示-->
+                <option value="1998">1998</option>
+                <option value="1999">1999</option>
+            </select>
+            <select>月
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            <select>日
+                <option value="01">01</option>
+                <option value="02">02</option>
+                <option value="03">03</option>
+                <option value="04">04</option>
+            </select><br>
+        <label>头像</label>
+            <img src="image/headLogo/13.gif">
+            <select>
+                <option value="1">1</option>
+                <option value="2">2</option>
+            </select><br>
+            <input type="button" value="普通按钮">
+            <input type="submit" value="提交按钮"> <!--提交按钮就会进行后台处理-->
+    </form>
+</body>
+</html>
