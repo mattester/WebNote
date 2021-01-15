@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .p1{/*class选择器，可以重复*/
+            color:blue;
+        }
+        #name{/*id选择器，不可以重复*/
+            color: red;
+        }
+        #name1{
+            color: blue;
+        }
+        *{/*对所有元素进行控制*/
+            font-size: 20px;
+        }
+        .la1,.la2{/*联合选择器，多选几个class*/
+            color: yellow;
+        }
+        .la1,.la2,p{/*联合选择器，calss和p元素*/
+            color: yellow;
+        }
+        #div1 p{
+            color: red;
+        }
+        #div1 >p{
+            color:blue;
+        }
+        #div1 +div{
+            color: #FFB6C1;
+        }
+        p[class="p1"]{
+            color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <p class="p1" id="name">你好世界</p>
+    <p class="p1" id="name1">你好世界</p>
+    <label class="la1">我喜欢你</label>
+    <label class="la2">我喜欢你</label>
+<p>我在div外面</p>
+    <div id="div1"><!--区分范围，所属-->
+        <div div2><a href="http://www.baidu.com" >百度</div>
+        <p class="p1" id="name">你好世界</p>
+        <p class="p1" id="name1">你好世界</p>
+        <div>
+        <p class="p1" id="name1">你好世界</p>
+        </div>
+        <label class="la1">我喜欢你</label>
+        <label class="la2">我喜欢你</label>
+    </div>
+</body>
+</html>
