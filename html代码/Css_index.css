@@ -1,0 +1,33 @@
+.p1{
+    background-color: #FFB6C1;
+    font-size: 20px;
+    /*direction: rtl;*/ /*右对齐*//*只对阿拉伯语和阿拉伯数字有效，不然就是右边对齐*/
+    line-height: 20px;/*行高*/
+    text-align: center; /*居中*/
+    letter-spacing: 20px;/*字间距*/
+}
+.p1{
+    font-family: 隶书;
+}
+.p1{
+    /*background-color: #56ffcc;*/
+    /*background-image: url("image/richuyinxing.jpg");*/
+    /*background-repeat: no-repeat;!*是否重复*!*/
+    /*background-attachment: fixed;!*滚动页面背景图片不发生改变*!*/
+    /*!*background-attachment: scroll;*!!*随着滚动一起发生改变*!*/
+    /*!*background-position: center center;*!*/
+    /*background-position: 20px 30px;*/
+    background:yellow url("image/richuyinxing.jpg") no-repeat fixed center center;
+    /*    简写属性，先背景颜色，背景图片，是否重复，是否固定，图片位置*/
+}
+.p2{
+    text-shadow: 5px 5px 5px red;
+    text-transform: uppercase;
+    text-indent: 2em;
+}
+.p3{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 隶书;
+}

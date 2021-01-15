@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e836728b-dea5-4f75-a9f1-d13d905b28f3" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html笔记/表单+实战.md" beforeDir="false" afterPath="$PROJECT_DIR$/html笔记/表单+实战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html代码/表单其他.html" beforeDir="false" afterPath="$PROJECT_DIR$/html代码/表单其他.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1n3BnRwkgh2vUpzu0imbleO9hg4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,6 +44,16 @@
       <recent name="C:\Users\19625\Desktop\WEB" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Css_index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/html代码/Css_index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Css_index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -51,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610609060534</updated>
-      <workItem from="1610609061805" duration="8461000" />
+      <workItem from="1610609061805" duration="15044000" />
+      <workItem from="1610680330933" duration="8455000" />
     </task>
     <servers />
   </component>
@@ -59,6 +73,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="843" y="181" key="#Notifications" timestamp="1610625082790">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="843" y="181" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1610625082790" />
     <state x="701" y="228" key="SettingsEditor" timestamp="1610609122248">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
