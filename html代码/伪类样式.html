@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>伪类</title>
+    <style rel="stylesheet">
+        /*a:link{*/
+        /*    color: red; !*未被访问就是红色，需要清空cookie*!*/
+        /*}*/
+        /*a:visited{*/
+        /*    color: yellow;!*访问后*!*/
+        /*}*/
+        /*a:hover{*/
+        /*    color：blue;*/
+        /*    font-family: 隶书;*/
+        /*    font-size: 30px;*/
+        /*}*/
+        /*label:hover{*/
+        /*    font-size: 50px;*/
+        /*    color: aqua;*/
+        /*}*/
+        /*input:hover{*/
+        /*    background-color: red; !*移动鼠标到这个位置显示红色*!*/
+        /*}*/
+        /*input:active{*/
+        /*    background-color: blue; !*激活就会显示蓝色，也就是点击文本框*!*/
+        /*}*/
+        /*input:focus{*/
+        /*    background-color: yellow;!*出现鼠标光标就会变成黄色*!*/
+        /*}*/
+        p:first-child{/*p元素的第一个子元素*/
+            background-color: red;
+        }
+        p:first-of-type{/*上级元素下的第一个同类子元素*/
+            background-color: chartreuse;
+        }
+        p:last-child{/*p元素的最后一个子元素*/
+            background-color: aquamarine;
+        }
+        p:nth-child(4){/*p元素的第4个元素*/
+            background-color: red;
+        }
+        td:nth-child(2){
+            background-color: red;
+        }
+        tr:first-child{
+            background-color: red;
+        }
+        td:nth-last-child(1){/*倒数第一列红色*/
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+<!--    <a href="#">aaa</a>-->
+    <label>你好世界</label>
+<!--    <input type="text">-->
+        <h1>快乐</h1>
+        <p>快乐每一天</p>
+        <p>快乐每一天</p>
+        <p>快乐每一天</p>
+    <table border="2">
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4 </td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4 </td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4 </td>
+        </tr>
+    </table>
+</body>
+</html>
