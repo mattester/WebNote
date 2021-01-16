@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e836728b-dea5-4f75-a9f1-d13d905b28f3" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html代码/表单其他.html" beforeDir="false" afterPath="$PROJECT_DIR$/html代码/表单其他.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +13,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -37,20 +37,36 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\19625\Desktop\WEB\html笔记" />
       <recent name="C:\Users\19625\Desktop\WEB" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.第一个js程序.html">
     <configuration name="Css_index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/html代码/Css_index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="课程安排.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/html代码/课程安排.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="第一个js程序.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/js/第一个js程序.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/01.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/02.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.第一个js程序.html" />
         <item itemvalue="JavaScript Debug.Css_index.html" />
+        <item itemvalue="JavaScript Debug.课程安排.html" />
       </list>
     </recent_temporary>
   </component>
@@ -65,7 +81,12 @@
       <option name="presentableId" value="Default" />
       <updated>1610609060534</updated>
       <workItem from="1610609061805" duration="15044000" />
-      <workItem from="1610680330933" duration="8455000" />
+      <workItem from="1610680330933" duration="17601000" />
+      <workItem from="1610715699542" duration="4227000" />
+      <workItem from="1610780776888" duration="5707000" />
+      <workItem from="1610789831807" duration="543000" />
+      <workItem from="1610790399209" duration="1763000" />
+      <workItem from="1610792929921" duration="2715000" />
     </task>
     <servers />
   </component>
@@ -73,17 +94,85 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="791" y="244" key="#Custom_Plugin_Repositories" timestamp="1610790368705">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="791" y="244" key="#Custom_Plugin_Repositories/0.0.2048.1112@0.0.2048.1112" timestamp="1610790368705" />
     <state x="843" y="181" key="#Notifications" timestamp="1610625082790">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="843" y="181" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1610625082790" />
-    <state x="701" y="228" key="SettingsEditor" timestamp="1610609122248">
+    <state width="1012" height="210" key="GridCell.Tab.0.bottom" timestamp="1610797517439">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="701" y="228" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1610609122248" />
-    <state x="970" y="334" key="search.everywhere.popup" timestamp="1610614395019">
+    <state width="1012" height="210" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517439" />
+    <state width="1012" height="210" key="GridCell.Tab.0.center" timestamp="1610797517439">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="970" y="334" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1610614395019" />
+    <state width="1012" height="210" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517439" />
+    <state width="1012" height="210" key="GridCell.Tab.0.left" timestamp="1610797517439">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517439" />
+    <state width="1012" height="210" key="GridCell.Tab.0.right" timestamp="1610797517439">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517439" />
+    <state width="1012" height="210" key="GridCell.Tab.1.bottom" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.1.center" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.1.left" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.1.right" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.2.bottom" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.2.center" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.2.left" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.2.right" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.3.bottom" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.3.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.3.center" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.3.center/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.3.left" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.3.left/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state width="1012" height="210" key="GridCell.Tab.3.right" timestamp="1610797517357">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1012" height="210" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1610797517357" />
+    <state x="701" y="228" key="SettingsEditor" timestamp="1610790376061">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="701" y="228" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1610790376061" />
+    <state x="970" y="334" key="search.everywhere.popup" timestamp="1610698311141">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="970" y="334" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1610698311141" />
   </component>
 </project>
