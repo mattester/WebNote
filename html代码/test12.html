@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #div1{
+            border: 1px solid black;
+            background-color: red;
+            height: 300px;
+            width: 150px;
+        }
+        #div2{
+            background-color: yellow;
+            height: 230px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+<!--    <label>1</label><label>2</label><label>3</label>-->
+    <div id="div1">
+        <div id="div2">222</div>
+    </div><!--当div没有设置高度的时候，会显示content内容区的高度，就是把div给撑开了-->
+    <!--为什么没有设置宽度，宽度却布满整个页面呢，这样说其实是不严谨的-->
+<!--    &lt;!&ndash;而是布满该div所在上一级容器的宽度更合适>-->
+</body>
+</html>

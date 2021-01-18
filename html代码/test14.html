@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #div1{
+            background-color: red;
+            float: left;/*包裹性，不在是普通文档流，而是脱标流*/
+            /*div的高度默认就是图片的高度了*/
+        }
+        img{
+            vertical-align: bottom;/*通过增加下边框的*//*垂直对齐*/
+            /*也可以理解成将行级元素转换为了块级元素*/
+            /*不要只记语法，要观察效果*/
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">
+        <img src="image/wumingnvlang.jpg">
+    </div>
+</body>
+</html>

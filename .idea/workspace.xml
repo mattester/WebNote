@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e836728b-dea5-4f75-a9f1-d13d905b28f3" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/第一个js程序.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/第一个js程序.html" afterDir="false" />
     </list>
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,42 +40,45 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html代码" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\19625\Desktop\WEB\js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\19625\Desktop\WEB\html笔记" />
       <recent name="C:\Users\19625\Desktop\WEB" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\19625\Desktop\github站点\WebNote\html代码" />
+      <recent name="C:\Users\19625\Desktop\github站点\WebNote\img" />
+      <recent name="C:\Users\19625\Desktop\github站点\WebNote\js" />
+      <recent name="C:\Users\19625\Desktop\WEB\js" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.07.js">
-    <configuration name="Css_index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/html代码/Css_index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.test14.html">
+    <configuration name="test10.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebNote/html代码/test10.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="课程安排.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/html代码/课程安排.html" useBuiltInWebServerPort="true">
+    <configuration name="test11.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebNote/html代码/test11.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="第一个js程序.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/js/第一个js程序.html" useBuiltInWebServerPort="true">
+    <configuration name="test12.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebNote/html代码/test12.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="06.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/06.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="test13.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebNote/html代码/test13.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="07.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/07.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="test14.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebNote/html代码/test14.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.07.js" />
-        <item itemvalue="Node.js.06.js" />
-        <item itemvalue="JavaScript Debug.第一个js程序.html" />
-        <item itemvalue="JavaScript Debug.Css_index.html" />
-        <item itemvalue="JavaScript Debug.课程安排.html" />
+        <item itemvalue="JavaScript Debug.test14.html" />
+        <item itemvalue="JavaScript Debug.test13.html" />
+        <item itemvalue="JavaScript Debug.test12.html" />
+        <item itemvalue="JavaScript Debug.test11.html" />
+        <item itemvalue="JavaScript Debug.test10.html" />
       </list>
     </recent_temporary>
   </component>
@@ -100,6 +102,9 @@
       <workItem from="1610864807004" duration="6579000" />
       <workItem from="1610871895730" duration="2949000" />
       <workItem from="1610881581025" duration="6780000" />
+      <workItem from="1610890257726" duration="4000" />
+      <workItem from="1610890276777" duration="873000" />
+      <workItem from="1610946900844" duration="16146000" />
     </task>
     <servers />
   </component>
@@ -119,85 +124,85 @@
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
     <state x="130" y="1285" key="#插件/0.0.1152.2008@0.0.1152.2008" timestamp="1610871871484" />
-    <state width="1012" height="170" key="GridCell.Tab.0.bottom" timestamp="1610889224630">
+    <state width="1012" height="130" key="GridCell.Tab.0.bottom" timestamp="1610964224635">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="1012" height="170" key="GridCell.Tab.0.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1610889224630" />
+    <state width="1012" height="130" key="GridCell.Tab.0.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224635" />
     <state width="1012" height="210" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="1012" height="170" key="GridCell.Tab.0.center" timestamp="1610889224630">
+    <state width="1012" height="130" key="GridCell.Tab.0.center" timestamp="1610964224635">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="1012" height="170" key="GridCell.Tab.0.center/0.0.1152.2008@0.0.1152.2008" timestamp="1610889224630" />
+    <state width="1012" height="130" key="GridCell.Tab.0.center/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224635" />
     <state width="1012" height="210" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="1012" height="170" key="GridCell.Tab.0.left" timestamp="1610889224630">
+    <state width="1012" height="130" key="GridCell.Tab.0.left" timestamp="1610964224635">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="1012" height="170" key="GridCell.Tab.0.left/0.0.1152.2008@0.0.1152.2008" timestamp="1610889224630" />
+    <state width="1012" height="130" key="GridCell.Tab.0.left/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224635" />
     <state width="1012" height="210" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133165" />
-    <state width="1012" height="170" key="GridCell.Tab.0.right" timestamp="1610889224630">
+    <state width="1012" height="130" key="GridCell.Tab.0.right" timestamp="1610964224635">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="1012" height="170" key="GridCell.Tab.0.right/0.0.1152.2008@0.0.1152.2008" timestamp="1610889224630" />
+    <state width="1012" height="130" key="GridCell.Tab.0.right/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224635" />
     <state width="1012" height="210" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.1.bottom" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.1.bottom" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.1.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.1.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.1.center" timestamp="1610875535659">
+    <state width="1012" height="130" key="GridCell.Tab.1.center" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.1.center/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535659" />
+    <state width="1012" height="130" key="GridCell.Tab.1.center/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.1.left" timestamp="1610875535659">
+    <state width="1012" height="130" key="GridCell.Tab.1.left" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.1.left/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535659" />
+    <state width="1012" height="130" key="GridCell.Tab.1.left/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.1.right" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.1.right" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.1.right/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.1.right/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.2.bottom" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.2.bottom" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.2.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.2.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.2.center" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.2.center" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.2.center/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.2.center/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.2.left" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.2.left" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.2.left/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.2.left/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.2.right" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.2.right" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.2.right/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.2.right/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.3.bottom" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.3.bottom" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.3.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.3.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.3.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.3.center" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.3.center" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.3.center/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.3.center/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.3.center/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.3.left" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.3.left" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.3.left/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.3.left/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.3.left/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
-    <state width="990" height="210" key="GridCell.Tab.3.right" timestamp="1610875535660">
+    <state width="1012" height="130" key="GridCell.Tab.3.right" timestamp="1610964224636">
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
-    <state width="990" height="210" key="GridCell.Tab.3.right/0.0.1152.2008@0.0.1152.2008" timestamp="1610875535660" />
+    <state width="1012" height="130" key="GridCell.Tab.3.right/0.0.1152.2008@0.0.1152.2008" timestamp="1610964224636" />
     <state width="1012" height="210" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1610801133166" />
     <state x="701" y="228" key="SettingsEditor" timestamp="1610790376061">
       <screen x="0" y="0" width="2048" height="1112" />
@@ -207,9 +212,10 @@
       <screen x="0" y="0" width="1152" height="2008" />
     </state>
     <state x="284" y="1074" key="com.intellij.ide.util.TipDialog/0.0.1152.2008@0.0.1152.2008" timestamp="1610865066447" />
-    <state x="970" y="334" key="search.everywhere.popup" timestamp="1610698311141">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="546" y="603" key="search.everywhere.popup" timestamp="1610952804970">
+      <screen x="0" y="0" width="1152" height="2008" />
     </state>
+    <state x="546" y="603" key="search.everywhere.popup/0.0.1152.2008@0.0.1152.2008" timestamp="1610952804970" />
     <state x="970" y="334" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1610698311141" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
