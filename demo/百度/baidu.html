@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .nav{
+            position: absolute;
+            top: 23px;
+        }
+        ul{
+            list-style-type: none;
+        }
+        li{
+            float: left;
+            margin-left: 26px;
+        }
+        a{
+            text-decoration: none;
+            color: black;
+        }
+        a:hover{
+            color: rgb(78, 110, 242);
+        }
+        img{
+            position: absolute;
+            top: 120px;
+            left: 696px;
+        }
+        .search1{
+            width: 653px;
+            height: 44px;
+            position: absolute;
+            top:213px;
+            left: 478px;
+            border: 3px solid rgb(196, 199, 206);
+
+        }
+        .search1:hover{
+            border-color: rgb(167, 170, 181);
+        }
+        .search1:focus{
+            border-color: rgb(78, 110, 242);
+        }
+        .search2{
+            position: absolute;
+            top:213px;
+            left:1020px;
+            width:120px;
+            height: 50px;
+            background-color:rgb(78, 110, 242);
+        }
+    </style>
+</head>
+<body>
+    <!--头部导航栏-->
+    <div id="nav">
+        <ul>
+            <li><a href="#">新闻</a></li>
+            <li><a href="#">hao123</a></li>
+            <li><a href="#">地图</a></li>
+            <li><a href="#">直播</a></li>
+            <li><a href="#">视频</a></li>
+            <li><a href="#">贴吧</a></li>
+            <li><a href="#">学术</a></li>
+            <li><a href="#">更多</a></li>
+        </ul>
+    </div>
+    <!--logo-->
+    <div id="logo">
+        <img src="img/百度_03.gif" >
+    </div>
+    <!--search-->
+    <div id="search">
+        <!--文本框-->
+        <input type="text" class="search1">
+        <!--按钮-->
+        <input type="submit" value="百度一下" class="search2">
+    </div>
+
+</body>
+</html>
