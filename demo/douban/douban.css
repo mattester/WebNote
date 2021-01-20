@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.header{
+    width: 1950px;
+    height: 156px;
+    background-color: #f6f6f1;
+}
+.header-top-nav{
+    height: 30px;
+    background-color: #545652;
+}
+.header-top-nav-right {
+    float: right;
+    padding-right: 30px;
+}
+
+.header-top-nav-right ul li{
+    float: left;
+    list-style-type: none;
+    padding-right: 30px;
+    margin-top: -12px;
+    color: white;
+}
+.header-top-nav-list ul li{
+    float: left;
+    list-style-type: none;
+    padding: 4px 13px;
+    color: white;
+}
+.header-top-nav-list{
+    margin-left: -35px;
+}
+.header-middle-logo {
+    position: absolute;
+    top:59px;
+    left: 400px;
+}
+.header-middle-logo  img{
+    width: 128px;
+    height: 36px;
+}
+.header-middle-search{
+    position: absolute;
+    top: 57px;
+    left: 575px;
+}
+.header-middle-search input{
+    width: 515px;
+    height: 35px;
+    border-radius: 6px;
+    display: inline;
+    border-top: white;
+    border-left: white;
+    border-bottom: white;
+    border-right: white;
+}
+.header-middle-button button{
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: -0.8px;
+    left: 520px;
+    border-top: white;
+    border-left: white;
+    border-bottom: white;
+    border-right: white;
+}
+.header-middle-button button img{
+    margin-left: -7px;
+    margin-top: -5px;
+    width: 35px;
+    height: 40px;
+}
+.header-middle-henxian div{
+    width: 1950px;
+    height: 25px;
+    /*background-color: #FFB6C1;*/
+    position: absolute;
+    top: 120px;
+    border-color: white;
+    border-bottom: 1px solid #e9e9e2;
+    float: left;
+}
+.header-bottom-menu{
+    position: absolute;
+    top: 135px;
+    left: 362px;
+}
+.header-bottom-menu ul li {
+    float: left;
+    list-style-type: none;
+    padding-right: 16px;
+    font-family: 宋体;
+    font-weight: bolder;
+    color:rgb(92, 68, 47);
+}
+.header-middle-right{
+    float: right;
+    padding-right: 400px;
+    padding-top: 23px;
+}
+/*轮播图banner*/
+.middle-banner{
+    padding-top: 25px;
+    pad-bottom: 25px;
+    padding-left: 400px;
+}
+.middle-banner{
+    width: 1145px;
+    height: 110px;
+}
