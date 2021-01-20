@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e836728b-dea5-4f75-a9f1-d13d905b28f3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/imooclife/imooclife.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/douban/douban.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo/douban/douban.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/douban/douban.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/douban/douban.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +113,7 @@
       <workItem from="1610946900844" duration="18263000" />
       <workItem from="1610975360920" duration="12394000" />
       <workItem from="1611050512738" duration="22807000" />
-      <workItem from="1611130551994" duration="7468000" />
+      <workItem from="1611130551994" duration="14837000" />
     </task>
     <servers />
   </component>

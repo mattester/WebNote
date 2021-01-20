@@ -79,14 +79,14 @@ body{
     height: 25px;
     /*background-color: #FFB6C1;*/
     position: absolute;
-    top: 120px;
+    top: 105px;
     border-color: white;
     border-bottom: 1px solid #e9e9e2;
     float: left;
 }
 .header-bottom-menu{
     position: absolute;
-    top: 135px;
+    top: 125px;
     left: 362px;
 }
 .header-bottom-menu ul li {
@@ -109,6 +109,76 @@ body{
     padding-left: 400px;
 }
 .middle-banner{
-    width: 1145px;
+    width: 1143px;
     height: 110px;
+}
+/*-----------------------------------------*/
+/*content区域*/
+.content{
+    width: 1144px;
+    height: 780px;
+    background-color: #07cbc9;
+    margin-left: 400px;
+    margin-top: 25px;
+}
+.content .content1-left{
+    width: 742px;
+    height: 780px;
+    background-color: white;
+    float: left;
+}
+.content .content1-right {
+    width: 330px;
+    height: 780px;
+    background-color: #FFB6C1;
+    float: right;
+}
+.content1-left-xinshu div:nth-child(1){
+    font-family: 宋体;
+    font-size: 18px;
+    font-weight: bolder;
+    display: inline;
+    float: left;
+}
+.content1-left-xinshu div:nth-child(2){
+    float: left;
+    padding-left: 17px;
+    font-size: 12px;
+    padding-top: 3px;
+    color: #33a4d6;
+}
+.content1-left-book .clear{
+    clear: both;
+}
+.content1-left-book ul{
+    margin-left: -40px;
+}
+.content1-left-book ul li{
+    list-style-type: none;
+    float: left;
+    padding-right: 30px;
+}
+.content1-left-book ul li:nth-last-child(1){
+   padding-right: 0;
+    margin-left: 6px;
+}
+.ul2 li{
+    margin-top: 20px;
+}
+.content1-left-book ul li img{
+    width: 123px;
+    height: 187px;
+}
+.content1-left-book ul  li img+div{
+    color:  #33a4d6;
+}
+/*豆瓣日历*/
+.content1-left-rili{
+    margin-left: -8px;
+
+}
+.content1-left-rili img{
+    width: 750px;
+    height: 135px;
+    margin-top: 82px;
 }
