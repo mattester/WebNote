@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>innerHTML</title>
+    <script src="domReady.js"></script>
+    <script>
+      myReady(function () {
+          var content = document.getElementById("content");
+          var str = "<script>alert('hi');<\/script>";
+          content.innerHTML = str;/*通过innerHTML插入script脚本，并不会执行*/
+      });/*必须为script标签添加defer属性，script标签要在有作用域的元素之后*/
+    </script>
+</head>
+<body>
+<div id="content"></div>
+</body>
+</html>

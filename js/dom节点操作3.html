@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>innerHTML</title>
+    <script src="domReady.js"></script>
+    <script>
+        myReady(function () {
+            var content = document.getElementById("content");/*获取节点*/
+            var str = "<p>This is a <strong>paragraph</strong> with a list following it.</p>"/*创建节点和文本*/
+                + "<ul>"/*将多个节点进行连接*/
+                +"<li>Item 1</li>"/*创建li节点*/
+                +"<li>Item 2</li>"
+                +"<li>Item 3</li>"
+                +"</ul>";
+            content.innerHTML = str;/*非常高效*/
+            alert(content.innerHTML);
+        });
+    </script>
+</head>
+<body>
+<div id="content"></div>
+</body>
+</html>

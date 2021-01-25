@@ -182,3 +182,53 @@ body{
     height: 135px;
     margin-top: 82px;
 }
+/*content右边栏*/
+.content1-right{
+    float: right;
+    height: 655px;
+    background-color:red;
+}
+.content1-right-content-wenxue{
+    position: relative;
+    left: -64px;
+    bottom: -10px;
+    top: 30px;
+}
+.content1-right-fenlei{
+    margin-left: -40px;
+    position: relative;
+    top: 15px;
+}
+.content1-right-header div:nth-child(1){
+    font-weight: bolder;
+    float: left;
+}
+.content1-right-header div:nth-child(2) {
+    font-size: 10px;
+    position: relative;
+    left: 10px;
+    top: 5px;
+    color: #3377aa;
+}
+.content1-right-fenlei ul:nth-child(1) li {
+    float: left;
+    list-style-type: none;
+    padding: 5px 10px;
+    background-color: #f5f5f5;
+    margin-right: 5px;
+    color: #3377aa;
+}
+.clear{
+    clear: both;
+}
+.content1-right-fenlei ul:nth-child(2) li {
+    float:left;
+    list-style-type: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+    color: #3377aa;
+    background-color: #f5f5f5;
+}
+.wxul2{
+
+}

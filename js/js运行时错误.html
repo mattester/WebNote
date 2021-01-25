@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+    <script>
+       function getUserInput(msg) {
+            var input=prompt(msg);
+            var parsed = parseInt(input);
+            if (parsed != parsed){
+                return input;
+            }else {
+                return parsed
+            }
+       }
+       function multiple(a,b) {/*typeof a 变量的类型*/
+            if((typeof a !='number')||(typeof b != 'number')){
+                throw  new Error('arguments should all be number!')
+            }
+            return a*b;
+       }
+       var c;
+       var a = getUserInput("请输入一个数");
+        var b = getUserInput('请在输入一个数');
+        try{
+            c = multiple(a,b);
+            alert('他们的乘积是'+c )
+
+
+
+
+        }catch (e) {
+            alert('请输入两个数字！');
+        }
+        try{/*如果内部的代码抛出错误，则代码直接跳入catch块运行，且把
+                错误对象赋值给catch括号里面的变量*/
+            var x = null;
+            console.log(x.foo);
+        }catch (e) {
+            console.log(e)
+        }finally {
+                /*做一些请理性的工作*/
+                /*finally块是一定会执行的*/
+        }
+    </script>
+<body>
+
+</body>
+</html>

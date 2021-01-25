@@ -1,0 +1,19 @@
+.header /*头部*/
+.header__logo/*两个下划线，元素在模块之后，可以有多个层级，这是一个logo*/
+.header__nav/*这是一个导航栏，模块里面的都是元素，所以都用__这个*/
+.header__nav-item/*修饰，某元素或者某模块特别的状态，必须有一个状态名和状态值，使用_连接*/
+
+.header__wrap{
+    height: 80px;
+    position: relative;
+}
+.header__logo{
+     height: 38px;
+     position: absolute;
+     top: 50%;
+     margin-top: -19px;
+ }
+
+.header__wrap{
+    margin: 0 auto;
+}
